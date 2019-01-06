@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Shaders/Entity.vert</file>
+        <file>Shaders/Entity.frag</file>
+        <file>Shaders/Demo.frag</file>
+        <file>Shaders/Demo.vert</file>
+        <file>AtmosphereModel/glsl/definitions.frag</file>
+        <file>AtmosphereModel/glsl/functions.frag</file>
+        <file>AtmosphereModel/glsl/kAtmosphereShader.frag</file>
+        <file>AtmosphereModel/glsl/kComputeDirectIrradianceShader.frag</file>
+        <file>AtmosphereModel/glsl/kComputeIndirectIrradianceShader.frag</file>
+        <file>AtmosphereModel/glsl/kComputeMultipleScatteringShader.frag</file>
+        <file>AtmosphereModel/glsl/kComputeScatteringDensityShader.frag</file>
+        <file>AtmosphereModel/glsl/kComputeSingleScatteringShader.frag</file>
+        <file>AtmosphereModel/glsl/kComputeTransmittanceShader.frag</file>
+        <file>AtmosphereModel/glsl/kGeometryShader.geom</file>
+        <file>AtmosphereModel/glsl/kVertexShader.vert</file>
+    </qresource>
+</RCC>
